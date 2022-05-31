@@ -1,7 +1,3 @@
-Design Inspired by Solid State by HTML5 UP
-
-Credits:
-
 	Demo Images:
 		Unsplash (unsplash.com)
 
@@ -12,3 +8,5 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+		Design Inspired by Solid State by HTML5 UP
